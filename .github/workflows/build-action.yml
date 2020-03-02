@@ -1,0 +1,24 @@
+# Fast tests and build to be called after every commit on any branch
+
+name: Build And Test
+
+on:
+  push:
+    branches:
+      - '*'
+
+jobs:
+  build:
+    name: Build And Test
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Fast tests
+        run: |
+          ./test.ps1
+        shell: pwsh
+      - name: Publish project
+        run: |
+          ./publish.ps1
+        shell: pwsh

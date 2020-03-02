@@ -1,0 +1,162 @@
+﻿[
+  {
+    "Id": "1232845274948816896",
+    "Uri": "https://twitter.com/WhiteHouse/status/1232845274948816896",
+    "Name": "The White House",
+    "Handle": "WhiteHouse",
+    "Date": "2020-02-27T01:49:53Z",
+    "Text": ".@SecAzar provides an update on confirmed coronavirus cases in the United States—and how Americans should prepare to keep risk to their families and communities low. \n\nMORE: http://cdc.gov/covid19 pic.twitter.com/iMzFQUntWx"
+  },
+  {
+    "Id": "1232839083514322946",
+    "Uri": "https://twitter.com/WhiteHouse/status/1232839083514322946",
+    "Name": "The White House",
+    "Handle": "WhiteHouse",
+    "Date": "2020-02-27T01:25:17Z",
+    "Text": ".@VP will lead the Administration's efforts to protect the American people from the spread of coronavirus.pic.twitter.com/09n5erHaHP"
+  },
+  {
+    "Id": "1232834733333192704",
+    "Uri": "https://twitter.com/WhiteHouse/status/1232834733333192704",
+    "Name": "The White House",
+    "Handle": "WhiteHouse",
+    "Date": "2020-02-27T01:08:00Z",
+    "Text": "President @realDonaldTrump just held a news conference on the coronavirus: \n\n\"The number-one priority from our standpoint is the health and safety of the American people.\"pic.twitter.com/al0Qyj3iSZ"
+  },
+  {
+    "Id": "1232828892441911297",
+    "Uri": "https://twitter.com/WhiteHouse/status/1232828892441911297",
+    "Name": "The White House",
+    "Handle": "WhiteHouse",
+    "Date": "2020-02-27T00:44:47Z",
+    "Text": "\"I'd like to extend my deepest condolences to the victims and families in Milwaukee, Wisconsin.\" — President @realDonaldTrumppic.twitter.com/S7JYIVByyT"
+  },
+  {
+    "Id": "1232631333408649216",
+    "Uri": "https://twitter.com/realDonaldTrump/status/1232631333408649216",
+    "Name": "Donald J. Trump",
+    "Handle": "realDonaldTrump",
+    "Date": "2020-02-26T11:39:45Z",
+    "Text": "Just landed. India was great, trip very successful. Heading to the White House. Meetings and calls scheduled today. @CDCgov, @SecAzar and all doing a great job with respect to Coronavirus! Briefing this afternoon."
+  },
+  {
+    "Id": "1232494118137294850",
+    "Uri": "https://twitter.com/realDonaldTrump/status/1232494118137294850",
+    "Name": "Donald J. Trump",
+    "Handle": "realDonaldTrump",
+    "Date": "2020-02-26T02:34:31Z",
+    "Text": "52% in the new Rasmussen Poll. 95% Approval Rating in the Republican Party. Thank you!"
+  },
+  {
+    "Id": "1232492821501771776",
+    "Uri": "https://twitter.com/realDonaldTrump/status/1232492821501771776",
+    "Name": "Donald J. Trump",
+    "Handle": "realDonaldTrump",
+    "Date": "2020-02-26T02:29:21Z",
+    "Text": "CDC and my Administration are doing a GREAT job of handling Coronavirus, including the very early closing of our borders to certain areas of the world. It was opposed by the Dems, “too soon”, but turned out to be the correct decision. No matter how well we do, however, the....."
+  },
+  {
+    "Id": "1232492832897658880",
+    "Uri": "https://twitter.com/realDonaldTrump/status/1232492832897658880",
+    "Name": "Donald J. Trump",
+    "Handle": "realDonaldTrump",
+    "Date": "2020-02-26T02:29:24Z",
+    "Text": "....Democrats talking point is that we are doing badly. If the virus disappeared tomorrow, they would say we did a really poor, and even incompetent, job. Not fair, but it is what it is. So far, by the way, we have not had one death. Let’s keep it that way!"
+  },
+  {
+    "Id": "1232395209125707776",
+    "Uri": "https://twitter.com/realDonaldTrump/status/1232395209125707776",
+    "Name": "Donald J. Trump",
+    "Handle": "realDonaldTrump",
+    "Date": "2020-02-25T20:01:29Z",
+    "Text": "There has rarely been a juror so tainted as the forewoman in the Roger Stone case. Look at her background. She never revealed her hatred of “Trump” and Stone. She was totally biased, as is the judge. Roger wasn’t even working on my campaign. Miscarriage of justice. Sad to watch!"
+  },
+  {
+    "Id": "1232339190291030016",
+    "Uri": "https://twitter.com/WhiteHouse/status/1232339190291030016",
+    "Name": "The White House",
+    "Handle": "WhiteHouse",
+    "Date": "2020-02-25T16:18:53Z",
+    "Text": "The bottom line in all trade discussions: The United States must be treated fairly.pic.twitter.com/colXwbZ0Yq"
+  },
+  {
+    "Id": "1232333630690734083",
+    "Uri": "https://twitter.com/WhiteHouse/status/1232333630690734083",
+    "Name": "The White House",
+    "Handle": "WhiteHouse",
+    "Date": "2020-02-25T15:56:47Z",
+    "Text": "India is a tremendous country with huge economic potential, President @realDonaldTrump said. \"India's got a phenomenal future.\"pic.twitter.com/22va9BPKsO"
+  },
+  {
+    "Id": "1232326926108438530",
+    "Uri": "https://twitter.com/WhiteHouse/status/1232326926108438530",
+    "Name": "The White House",
+    "Handle": "WhiteHouse",
+    "Date": "2020-02-25T15:30:09Z",
+    "Text": "The United States received an incredible welcome from the people of India! pic.twitter.com/DUbicb8plW"
+  },
+  {
+    "Id": "1232058127740174339",
+    "Uri": "https://twitter.com/realDonaldTrump/status/1232058127740174339",
+    "Name": "Donald J. Trump",
+    "Handle": "realDonaldTrump",
+    "Date": "2020-02-24T21:42:02Z",
+    "Text": "The Coronavirus is very much under control in the USA. We are in contact with everyone and all relevant countries. CDC & World Health have been working hard and very smart. Stock Market starting to look very good to me!"
+  },
+  {
+    "Id": "1232017361789648899",
+    "Uri": "https://twitter.com/WhiteHouse/status/1232017361789648899",
+    "Name": "The White House",
+    "Handle": "WhiteHouse",
+    "Date": "2020-02-24T19:00:03Z",
+    "Text": "\"Together we will defend our sovereignty, security, and protect a free and open Indo-Pacific region for our children and for many, many generations to come.\"pic.twitter.com/DJO6mojOzi"
+  },
+  {
+    "Id": "1231988344860614657",
+    "Uri": "https://twitter.com/WhiteHouse/status/1231988344860614657",
+    "Name": "The White House",
+    "Handle": "WhiteHouse",
+    "Date": "2020-02-24T17:04:45Z",
+    "Text": "“Today, the ISIS territorial caliphate has been 100 percent destroyed and the monster known as al-Baghdadi, the founder and leader of ISIS, is dead.“pic.twitter.com/dNWrvWAVrX"
+  },
+  {
+    "Id": "1232005756054069248",
+    "Uri": "https://twitter.com/realDonaldTrump/status/1232005756054069248",
+    "Name": "Donald J. Trump",
+    "Handle": "realDonaldTrump",
+    "Date": "2020-02-24T18:13:56Z",
+    "Text": "https://twitter.com/narendramodi/status/1231918893964251136 …pic.twitter.com/moveFYzKDq"
+  },
+  {
+    "Id": "1231979286808203266",
+    "Uri": "https://twitter.com/WhiteHouse/status/1231979286808203266",
+    "Name": "The White House",
+    "Handle": "WhiteHouse",
+    "Date": "2020-02-24T16:28:45Z",
+    "Text": "\"While our country will always welcome newcomers who share our values and love our people, our borders will always be closed to terrorists and terrorism and to any form of extremism.\"pic.twitter.com/Fj0U6slq7m"
+  },
+  {
+    "Id": "1231943100978909185",
+    "Uri": "https://twitter.com/WhiteHouse/status/1231943100978909185",
+    "Name": "The White House",
+    "Handle": "WhiteHouse",
+    "Date": "2020-02-24T14:04:58Z",
+    "Text": "The United States looks forward to providing India with some of the greatest military equipment on the planet.pic.twitter.com/cyll3sr55C"
+  },
+  {
+    "Id": "1231969585357893632",
+    "Uri": "https://twitter.com/WhiteHouse/status/1231969585357893632",
+    "Name": "The White House",
+    "Handle": "WhiteHouse",
+    "Date": "2020-02-24T15:50:12Z",
+    "Text": "“Every nation has the right to secure and controlled borders.\"pic.twitter.com/OX0JGclmqR"
+  },
+  {
+    "Id": "1231930572915847168",
+    "Uri": "https://twitter.com/WhiteHouse/status/1231930572915847168",
+    "Name": "The White House",
+    "Handle": "WhiteHouse",
+    "Date": "2020-02-24T13:15:11Z",
+    "Text": "\"When leaders put the interests of their own citizens first, we can forge strong and fair partnerships to build a safer and more prosperous world.\"pic.twitter.com/KEDQGvJuSx"
+  }
+]
