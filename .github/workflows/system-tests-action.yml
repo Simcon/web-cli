@@ -1,0 +1,29 @@
+# Full tests, publish and release when commit or merged to master
+
+name: Upload Release Assets
+
+on:
+  pull_request:
+    type: [ opened ]
+    branches:
+      - '*'
+
+jobs:
+  build:
+    name: Upload Release Assets
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Fast tests
+        run: |
+          ./test.ps1
+        shell: pwsh
+      - name: Publish project
+        run: |
+          ./publish.ps1
+        shell: pwsh
+      - name: System tests
+        run: |
+          ./system-test.ps1
+        shell: pwsh

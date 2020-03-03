@@ -4,6 +4,7 @@ name: Upload Release Assets
 
 on:
   pull_request:
+    type: [ closed ]
     branches:
       - '*'
 
