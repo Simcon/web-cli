@@ -1,5 +1,0 @@
-﻿{
-  "ExitCode": 0,
-  "Error": "",
-  "Output": "The value for --int-option is: 42\n"
-}

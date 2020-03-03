@@ -6,7 +6,6 @@ using System.CommandLine.Invocation;
 using System.IO;
 using WebCLI.Commands.Client;
 using WebCLI.Commands.HackerNews;
-using WebCLI.Commands.Test;
 using WebCLI.Commands.Twitter;
 using WebCLI.Commands.Twitter.Client;
 
@@ -31,7 +30,6 @@ namespace WebCLI
         {
             rootCommand = new RootCommand()
             {
-                new TestCommand("test"),
                 new TwitterCommand("twitter", services.GetService<TwitterClient>())
                 {
                     new Commands.Twitter.Verbs.ListCommand("list", services.GetService<TwitterClient>())
