@@ -2,7 +2,7 @@
   "profiles": {
     "WebCLI": {
       "commandName": "Project",
-      "commandLineArgs": "twitter list --username paul1664 --json"
+      "commandLineArgs": "hackernews --debug"
     }
   }
 }

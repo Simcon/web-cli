@@ -1,0 +1,162 @@
+﻿[
+  {
+    "Id": "1232437492571201536",
+    "Uri": "https://twitter.com/elonmusk/status/1232437492571201536",
+    "Name": "Elon Musk",
+    "Handle": "elonmusk",
+    "Date": "2020-02-25T22:49:30Z",
+    "Text": "SN2 tank integration starts this week with much less circumferential pucker. Thanks Fronius!"
+  },
+  {
+    "Id": "1232436994191441920",
+    "Uri": "https://twitter.com/elonmusk/status/1232436994191441920",
+    "Name": "Elon Musk",
+    "Handle": "elonmusk",
+    "Date": "2020-02-25T22:47:31Z",
+    "Text": "Starship SN1 tank preparing for Raptor attachment & static firepic.twitter.com/jx0ijLrxWx"
+  },
+  {
+    "Id": "1232401922952331264",
+    "Uri": "https://twitter.com/elonmusk/status/1232401922952331264",
+    "Name": "Elon Musk",
+    "Handle": "elonmusk",
+    "Date": "2020-02-25T20:28:10Z",
+    "Text": "And that’s why cones were inventedpic.twitter.com/7YKfEIGvPq"
+  },
+  {
+    "Id": "1232397468240711681",
+    "Uri": "https://twitter.com/elonmusk/status/1232397468240711681",
+    "Name": "Elon Musk",
+    "Handle": "elonmusk",
+    "Date": "2020-02-25T20:10:27Z",
+    "Text": "Tinnypic.twitter.com/N1p5qZvx0D"
+  },
+  {
+    "Id": "1232234816654856195",
+    "Uri": "https://twitter.com/elonmusk/status/1232234816654856195",
+    "Name": "Elon Musk",
+    "Handle": "elonmusk",
+    "Date": "2020-02-25T09:24:08Z",
+    "Text": "Rococo is alive & living in our hearts"
+  },
+  {
+    "Id": "1232230754710585346",
+    "Uri": "https://twitter.com/elonmusk/status/1232230754710585346",
+    "Name": "Elon Musk",
+    "Handle": "elonmusk",
+    "Date": "2020-02-25T09:08:00Z",
+    "Text": "Woodypic.twitter.com/0Di88Eoz2C"
+  },
+  {
+    "Id": "1232222762023997440",
+    "Uri": "https://twitter.com/elonmusk/status/1232222762023997440",
+    "Name": "Elon Musk",
+    "Handle": "elonmusk",
+    "Date": "2020-02-25T08:36:14Z",
+    "Text": "Battle Angel Starshippic.twitter.com/CL4rvBB8mb"
+  },
+  {
+    "Id": "1232214170688540673",
+    "Uri": "https://twitter.com/elonmusk/status/1232214170688540673",
+    "Name": "Elon Musk",
+    "Handle": "elonmusk",
+    "Date": "2020-02-25T08:02:06Z",
+    "Text": "On a wall in Austinpic.twitter.com/yDBt2tUJij"
+  },
+  {
+    "Id": "1231332796964032512",
+    "Uri": "https://twitter.com/elonmusk/status/1231332796964032512",
+    "Name": "Elon Musk",
+    "Handle": "elonmusk",
+    "Date": "2020-02-22T21:39:50Z",
+    "Text": "Getting there was super hard. Very proud of Tesla team!"
+  },
+  {
+    "Id": "1231330415639552001",
+    "Uri": "https://twitter.com/elonmusk/status/1231330415639552001",
+    "Name": "Elon Musk",
+    "Handle": "elonmusk",
+    "Date": "2020-02-22T21:30:22Z",
+    "Text": "Model 3 achieves 350 mile actual range vs 310 EPA sticker in Consumer Reports testinghttps://www.consumerreports.org/hybrids-evs/tesla-ups-ante-on-model-y-range-underscoring-ev-lead/ …"
+  },
+  {
+    "Id": "1230813602883354624",
+    "Uri": "https://twitter.com/elonmusk/status/1230813602883354624",
+    "Name": "Elon Musk",
+    "Handle": "elonmusk",
+    "Date": "2020-02-21T11:16:44Z",
+    "Text": "Science has gone too farpic.twitter.com/Ky65Q3s3JX"
+  },
+  {
+    "Id": "1230790973036343296",
+    "Uri": "https://twitter.com/elonmusk/status/1230790973036343296",
+    "Name": "Elon Musk",
+    "Handle": "elonmusk",
+    "Date": "2020-02-21T09:46:49Z",
+    "Text": "pic.twitter.com/6HHgR0ZVp0"
+  },
+  {
+    "Id": "1230581526162628608",
+    "Uri": "https://twitter.com/Tesmanian_com/status/1230581526162628608",
+    "Name": "Tesmanian.com",
+    "Handle": "Tesmanian_com",
+    "Date": "2020-02-20T19:54:33Z",
+    "Text": "Tesla Model 3 Is Consumer Reports' Top EV Pick for 2020 http://dlvr.it/RQR6Rn pic.twitter.com/AyIfI6CsNb"
+  },
+  {
+    "Id": "1230439298874343424",
+    "Uri": "https://twitter.com/elonmusk/status/1230439298874343424",
+    "Name": "Elon Musk",
+    "Handle": "elonmusk",
+    "Date": "2020-02-20T10:29:23Z",
+    "Text": "High bay for stacking Starship engine bay, propellant tanks & fairing (fka nosecone) sections is almost done!pic.twitter.com/G9h0430ns2"
+  },
+  {
+    "Id": "1230293973673136129",
+    "Uri": "https://twitter.com/elonmusk/status/1230293973673136129",
+    "Name": "Elon Musk",
+    "Handle": "elonmusk",
+    "Date": "2020-02-20T00:51:55Z",
+    "Text": "Worth reading Asimov’s Foundation\nhttps://en.m.wikipedia.org/wiki/Foundation_series …"
+  },
+  {
+    "Id": "1230276876930863105",
+    "Uri": "https://twitter.com/elonmusk/status/1230276876930863105",
+    "Name": "Elon Musk",
+    "Handle": "elonmusk",
+    "Date": "2020-02-19T23:43:59Z",
+    "Text": "Rocket nosecone production in Texaspic.twitter.com/KLWewja9Gn"
+  },
+  {
+    "Id": "1229426122720346113",
+    "Uri": "https://twitter.com/SpaceX/status/1229426122720346113",
+    "Name": "SpaceX",
+    "Handle": "SpaceX",
+    "Date": "2020-02-17T15:23:23Z",
+    "Text": "Successful deployment of 60 Starlink satellites confirmed!pic.twitter.com/bKBtI5UZEB"
+  },
+  {
+    "Id": "1229422221975666688",
+    "Uri": "https://twitter.com/SpaceX/status/1229422221975666688",
+    "Name": "SpaceX",
+    "Handle": "SpaceX",
+    "Date": "2020-02-17T15:07:53Z",
+    "Text": "Liftoff!pic.twitter.com/vTMGhpgVIQ"
+  },
+  {
+    "Id": "1229194045349679113",
+    "Uri": "https://twitter.com/SpaceX/status/1229194045349679113",
+    "Name": "SpaceX",
+    "Handle": "SpaceX",
+    "Date": "2020-02-17T00:01:12Z",
+    "Text": "Crew Dragon completes acoustic testing in Floridapic.twitter.com/SbvmEvZLeZ"
+  },
+  {
+    "Id": "1228850093492711425",
+    "Uri": "https://twitter.com/elonmusk/status/1228850093492711425",
+    "Name": "Elon Musk",
+    "Handle": "elonmusk",
+    "Date": "2020-02-16T01:14:27Z",
+    "Text": "Looking forward to international expansion later this year "
+  }
+]

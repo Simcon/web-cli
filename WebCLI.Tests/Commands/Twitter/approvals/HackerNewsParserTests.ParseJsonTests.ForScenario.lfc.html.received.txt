@@ -1,0 +1,162 @@
+﻿[
+  {
+    "Id": "1232983715946618880",
+    "Uri": "https://twitter.com/LFC/status/1232983715946618880",
+    "Name": "Liverpool FC",
+    "Handle": "LFC",
+    "Date": "2020-02-27T11:00:00Z",
+    "Text": "The Team Meeting: Content Creative Session  \n\n#LFC x @Chaokoh_UK presents…pic.twitter.com/tBvq3F0GtD"
+  },
+  {
+    "Id": "1233078339243474950",
+    "Uri": "https://twitter.com/LFC/status/1233078339243474950",
+    "Name": "Liverpool FC",
+    "Handle": "LFC",
+    "Date": "2020-02-27T17:16:00Z",
+    "Text": " FAB pic.twitter.com/dv9qFXTDwN"
+  },
+  {
+    "Id": "1233061384012861440",
+    "Uri": "https://twitter.com/LFC/status/1233061384012861440",
+    "Name": "Liverpool FC",
+    "Handle": "LFC",
+    "Date": "2020-02-27T16:08:37Z",
+    "Text": "Klopp's Liverpool continue to set records in the quest for a first @premierleague title and their latest victory saw the Reds match a landmark set under Shankly almost half a century ago... https://cards.twitter.com/cards/bnqrd/92twd …"
+  },
+  {
+    "Id": "1233058802838142977",
+    "Uri": "https://twitter.com/LFC/status/1233058802838142977",
+    "Name": "Liverpool FC",
+    "Handle": "LFC",
+    "Date": "2020-02-27T15:58:22Z",
+    "Text": "\n\n@Alissonbecker has been presented with his Samba Gold award pic.twitter.com/erfd2TndCs"
+  },
+  {
+    "Id": "1233052065951338498",
+    "Uri": "https://twitter.com/LFC/status/1233052065951338498",
+    "Name": "Liverpool FC",
+    "Handle": "LFC",
+    "Date": "2020-02-27T15:31:36Z",
+    "Text": "Naby x Sadio pic.twitter.com/4QL61hAlj0"
+  },
+  {
+    "Id": "1233036640089714691",
+    "Uri": "https://twitter.com/LFC/status/1233036640089714691",
+    "Name": "Liverpool FC",
+    "Handle": "LFC",
+    "Date": "2020-02-27T14:30:18Z",
+    "Text": "“Everybody says we go game by game, we focus only on this and only on that, but it’s even more.\"\n\nDon't miss our exclusive chat with Pepijn Lijnders as the Reds prepare for Saturday's #PL meet with @WatfordFC https://cards.twitter.com/cards/bnqrd/92szx …"
+  },
+  {
+    "Id": "1233018696181805057",
+    "Uri": "https://twitter.com/LFC/status/1233018696181805057",
+    "Name": "Liverpool FC",
+    "Handle": "LFC",
+    "Date": "2020-02-27T13:19:00Z",
+    "Text": "Every angle of @trentaa98's stunning free-kick against @WatfordFC last season \n\n#ThrowbackThursday | #LFC pic.twitter.com/pIleluHefO"
+  },
+  {
+    "Id": "1233012478960951296",
+    "Uri": "https://twitter.com/Chaokoh_UK/status/1233012478960951296",
+    "Name": "Chaokoh",
+    "Handle": "Chaokoh_UK",
+    "Date": "2020-02-27T12:54:17Z",
+    "Text": "Well if we have to go with one, which is it... \n\nThey’re all such great ideas \n\n@LFC @JHenderson @andrewrobertso5"
+  },
+  {
+    "Id": "1232991227404001281",
+    "Uri": "https://twitter.com/andrewrobertso5/status/1232991227404001281",
+    "Name": "Andy Robertson",
+    "Handle": "andrewrobertso5",
+    "Date": "2020-02-27T11:29:51Z",
+    "Text": "Think we smashed it to be fair. For anyone else needing creative help please get in touch.pic.twitter.com/SbkYwwaQHL"
+  },
+  {
+    "Id": "1232999670391148545",
+    "Uri": "https://twitter.com/LFC/status/1232999670391148545",
+    "Name": "Liverpool FC",
+    "Handle": "LFC",
+    "Date": "2020-02-27T12:03:24Z",
+    "Text": "Creating content on and off the pitch \n\nAll of the @Chaokoh_UK team meeting GIFs are available on our @GIPHY page "
+  },
+  {
+    "Id": "1232991266465615872",
+    "Uri": "https://twitter.com/LFC/status/1232991266465615872",
+    "Name": "Liverpool FC",
+    "Handle": "LFC",
+    "Date": "2020-02-27T11:30:00Z",
+    "Text": "Footballers first, actors second...probably entertainers third. \n\nThe Team Meeting: Bloopers and Outtakes \n\n#LFC x @Chaokoh_UK presents…pic.twitter.com/9a0PEFgqYK"
+  },
+  {
+    "Id": "1232978682450456577",
+    "Uri": "https://twitter.com/LFC/status/1232978682450456577",
+    "Name": "Liverpool FC",
+    "Handle": "LFC",
+    "Date": "2020-02-27T10:40:00Z",
+    "Text": "Coming soon. A team meeting with a difference. \n\n#LFC x @Chaokoh_UK presents…pic.twitter.com/92vW5icCO3"
+  },
+  {
+    "Id": "1232968680377548800",
+    "Uri": "https://twitter.com/LFC/status/1232968680377548800",
+    "Name": "Liverpool FC",
+    "Handle": "LFC",
+    "Date": "2020-02-27T10:00:15Z",
+    "Text": "#LFC continues reinvesting revenues to strengthen position on and off pitch.https://cards.twitter.com/cards/bnqrd/92pvm …"
+  },
+  {
+    "Id": "1232961569958567936",
+    "Uri": "https://twitter.com/LFC/status/1232961569958567936",
+    "Name": "Liverpool FC",
+    "Handle": "LFC",
+    "Date": "2020-02-27T09:32:00Z",
+    "Text": "#OnThisDay last year, Sadio netted THAT sublime backheel pic.twitter.com/fqtp9rrHxQ"
+  },
+  {
+    "Id": "1232955190766133252",
+    "Uri": "https://twitter.com/LFC/status/1232955190766133252",
+    "Name": "Liverpool FC",
+    "Handle": "LFC",
+    "Date": "2020-02-27T09:06:39Z",
+    "Text": "\"He has had a taste of it and he wants more of that.\"\n\nNeil Critchley lauded the talents of @curtisjr_10 after the 19-year-old netted a sensational eight-minute hat-trick for #LFCU23s https://cards.twitter.com/cards/bnqrd/92pfr …"
+  },
+  {
+    "Id": "1232932880638267393",
+    "Uri": "https://twitter.com/LFC/status/1232932880638267393",
+    "Name": "Liverpool FC",
+    "Handle": "LFC",
+    "Date": "2020-02-27T07:38:00Z",
+    "Text": "The first Reds captain to lift the European Cup \n\n#OnThisDay in 1967, Emlyn Hughes joined the Reds pic.twitter.com/Q6AUX6bEtO"
+  },
+  {
+    "Id": "1232735419856490497",
+    "Uri": "https://twitter.com/LFC/status/1232735419856490497",
+    "Name": "Liverpool FC",
+    "Handle": "LFC",
+    "Date": "2020-02-26T18:33:21Z",
+    "Text": "All focus on Saturday \n\n @WatfordFCpic.twitter.com/1MIAgun8xo"
+  },
+  {
+    "Id": "1232715951310692352",
+    "Uri": "https://twitter.com/LFC/status/1232715951310692352",
+    "Name": "Liverpool FC",
+    "Handle": "LFC",
+    "Date": "2020-02-26T17:16:00Z",
+    "Text": " @GWijnaldum pic.twitter.com/NAVUSDlCKu"
+  },
+  {
+    "Id": "1232696034276630528",
+    "Uri": "https://twitter.com/LFC/status/1232696034276630528",
+    "Name": "Liverpool FC",
+    "Handle": "LFC",
+    "Date": "2020-02-26T15:56:51Z",
+    "Text": "The Reds prepare for @WatfordFC \n\nThe full gallery https://cards.twitter.com/cards/bnqrd/92hre …"
+  },
+  {
+    "Id": "1232692494372102144",
+    "Uri": "https://twitter.com/LFC/status/1232692494372102144",
+    "Name": "Liverpool FC",
+    "Handle": "LFC",
+    "Date": "2020-02-26T15:42:47Z",
+    "Text": "All smiles in training pic.twitter.com/xB0NdOMhFF"
+  }
+]

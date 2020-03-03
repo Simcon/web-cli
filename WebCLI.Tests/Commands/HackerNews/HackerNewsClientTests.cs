@@ -2,21 +2,21 @@
 using ApprovalTests.Namers;
 using NUnit.Framework;
 using System.Threading.Tasks;
-using WebCLI.Commands.Twitter.Client;
+using WebCLI.Commands.Client;
 
-namespace WebCLI.Tests.Commands.Twitter
+namespace WebCLI.Tests.Commands.HackerNews
 {
-    public class TwitterClientTests : TwitterTestBase
+    public class HackerNewsClientTests : HackerNewsTestBase
     {
         [Test]
         public async Task ClientTest([ValueSource("_files")] string file)
         {
             var response = ReadFile(file);
-            var client = new TwitterClient(GetFakeHttpClientFactory(response));
+            var client = new HackerNewsClient(GetFakeHttpClientFactory(response));
 
             using (ApprovalResults.ForScenario(file))
             {
-                var output = await client.GetTweets(string.Empty);
+                var output = await client.GetFrontpage();
                 Approvals.Verify(output.Json);
             }
         }
