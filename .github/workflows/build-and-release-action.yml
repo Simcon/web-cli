@@ -1,6 +1,4 @@
-# Full tests, publish and release when commit or merged to master
-
-name: Upload Release Assets
+name: Build Test And Release
 
 on:
   push:
@@ -9,7 +7,7 @@ on:
 
 jobs:
   build:
-    name: Upload Release Assets
+    name: Build Test And Release
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code

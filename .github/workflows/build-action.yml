@@ -1,5 +1,3 @@
-# Fast tests and build to be called after every commit on any branch
-
 name: Build And Test
 
 on:
@@ -21,4 +19,8 @@ jobs:
       - name: Publish project
         run: |
           ./publish.ps1
+        shell: pwsh
+      - name: System tests
+        run: |
+          ./system-test.ps1
         shell: pwsh
