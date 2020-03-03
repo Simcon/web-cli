@@ -1,0 +1,152 @@
+﻿[
+  {
+    "Id": "22471355",
+    "Uri": "https://www.gkogan.co/blog/simple-systems/?r=0",
+    "Title": "Simple Systems Have Less Downtime"
+  },
+  {
+    "Id": "22472790",
+    "Uri": "https://www.thenewatlantis.com/publications/we-all-wear-tinfoil-hats-now",
+    "Title": "We All Wear Tinfoil Hats Now"
+  },
+  {
+    "Id": "22472836",
+    "Uri": "https://fold.it/portal/node/2008926",
+    "Title": "Coronavirus Spike Protein Binder Design"
+  },
+  {
+    "Id": "22473255",
+    "Uri": "https://community.letsencrypt.org/t/revoking-certain-certificates-on-march-4/114864",
+    "Title": "Let’s Encrypt – Revoking certain certificates on March 4"
+  },
+  {
+    "Id": "22472175",
+    "Uri": "https://github.com/dalibo/pev2",
+    "Title": "Postgres Explain Visualizer"
+  },
+  {
+    "Id": "22472330",
+    "Uri": "https://twitter.com/DonaldM38768041/status/1234658195668267010",
+    "Title": "Recovering telemetry data from Venera-13 and 14"
+  },
+  {
+    "Id": "22471679",
+    "Uri": "https://www.scientificamerican.com/article/born-ready-babies-are-prewired-to-perceive-the-world/",
+    "Title": "Born Ready: Babies Are Prewired to Perceive the World"
+  },
+  {
+    "Id": "22472262",
+    "Uri": "http://www.aaronsw.com/weblog/whowriteswikipedia",
+    "Title": "Who Writes Wikipedia? (2006)"
+  },
+  {
+    "Id": "22473148",
+    "Uri": "https://intelnews.org/2020/03/03/01-2730/",
+    "Title": "Swiss government files criminal complaint over Crypto AG scandal involving CIA"
+  },
+  {
+    "Id": "22470702",
+    "Uri": "https://itbrief.com.au/story/sophos-acquired-for-usd-3-9-billion-in-cash",
+    "Title": "Sophos acquired for $3.9B"
+  },
+  {
+    "Id": "22469432",
+    "Uri": "https://blog.waymo.com/2020/03/waymo-raises-first-external-investment.html",
+    "Title": "Waymo raises first external investment round"
+  },
+  {
+    "Id": "22471385",
+    "Uri": "https://daily.jstor.org/how-do-we-know-that-epic-poems-were-recited-from-memory/",
+    "Title": "How Do We Know That Epic Poems Were Recited from Memory?"
+  },
+  {
+    "Id": "22467960",
+    "Uri": "https://www.lrb.co.uk/the-paper/v38/n06/hilary-mantel/how-to-be-tudor",
+    "Title": "How to Be Tudor (2016)"
+  },
+  {
+    "Id": "22469626",
+    "Uri": "https://imgur.com/a/9FMo38g",
+    "Title": "Ingenious Low-Cost Tilt Detection System (2018)"
+  },
+  {
+    "Id": "22473209",
+    "Uri": "https://news.ycombinator.com/item?id=22473209",
+    "Title": "Ask HN: How to Take Good Notes?"
+  },
+  {
+    "Id": "22465476",
+    "Uri": "https://news.ycombinator.com/item?id=22465476",
+    "Title": "Ask HN: Who is hiring? (March 2020)"
+  },
+  {
+    "Id": "22473530",
+    "Uri": "https://www.instagram.com/p/B9MhjgphNWj/?igshid=1f85pcqneulx6",
+    "Title": "Comedian changes name to Hugo Boss to challenge copyright"
+  },
+  {
+    "Id": "22470230",
+    "Uri": "https://www.thenation.com/article/culture/reading-richard-rorty-in-tehran/",
+    "Title": "Reading Richard Rorty in Tehran"
+  },
+  {
+    "Id": "22470342",
+    "Uri": "https://in.reuters.com/article/climate-change-coal-banks/british-hedge-fund-billionaire-hohn-launches-campaign-to-starve-coal-plants-of-finance-idINKBN20P0KB",
+    "Title": "British billionaire Hohn launches campaign to starve coal plants of finance"
+  },
+  {
+    "Id": "22473438",
+    "Uri": "https://www.phoronix.com/scan.php?page=news_item&px=IBM-Will-Use-LLVM-Clang-Stack",
+    "Title": "IBM to transition z/OS, Power and AIX Compilers to being LLVM/Clang-based"
+  },
+  {
+    "Id": "22469611",
+    "Uri": "https://blog.strom.com/wp/?p=7561",
+    "Title": "So you wanna buy a used IP address block?"
+  },
+  {
+    "Id": "22471163",
+    "Uri": "https://thepointmag.com/examined-life/against-advice-agnes-callard/",
+    "Title": "Against Advice"
+  },
+  {
+    "Id": "22468370",
+    "Uri": "https://www.troyhunt.com/project-svalbard-have-i-been-pwned-and-its-ongoing-independence/",
+    "Title": "Project Svalbard, Have I Been Pwned and its ongoing independence"
+  },
+  {
+    "Id": "22467486",
+    "Uri": "https://joshwcomeau.com/react/the-perils-of-rehydration",
+    "Title": "The Perils of Rehydration A Realization about Gatsby and React"
+  },
+  {
+    "Id": "22464765",
+    "Uri": "https://www.wired.com/story/wireguard-gives-linux-faster-secure-vpn/",
+    "Title": "WireGuard Gives Linux a Faster, More Secure VPN"
+  },
+  {
+    "Id": "22466994",
+    "Uri": "https://news.ycombinator.com/item?id=22466994",
+    "Title": "Launch HN: Raycast (YC W20) – CLI-inspired desktop app for non-coding tasks"
+  },
+  {
+    "Id": "22470629",
+    "Uri": "https://0fps.net/2015/01/07/collision-detection-part-1/",
+    "Title": "Collision Detection, Part 1: Overview (2015)"
+  },
+  {
+    "Id": "22452419",
+    "Uri": "https://www.nytimes.com/2020/02/28/science/leap-year.html",
+    "Title": "Mars Needs Leap Days Too"
+  },
+  {
+    "Id": "22457811",
+    "Uri": "https://www.sciencemag.org/news/2020/02/farming-gave-us-salmonella-ancient-dna-suggests",
+    "Title": "Farming gave us salmonella, ancient DNA suggests"
+  },
+  {
+    "Id": "22466462",
+    "Uri": "https://engineering.fb.com/data-infrastructure/messenger/",
+    "Title": "LightSpeed: Rewriting Messenger’s codebase for a faster, smaller, simpler app"
+  }
+]

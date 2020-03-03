@@ -6,23 +6,16 @@ using System.Net;
 using System.Net.Http;
 using System.Runtime.CompilerServices;
 
-namespace WebCLI.Tests.Commands.Twitter
+namespace WebCLI.Tests.Commands
 {
     [UseApprovalSubdirectory("approvals")]
     public class TestBase
     {
-        protected static readonly string[] _files = new[]
-        {
-            "lfc.html",
-            "potus.html",
-            "elonmusk.html"
-        };
-
         protected string ReadFile(string filename, [CallerFilePath] string callerpath = "")
         {
             var location = Path.GetDirectoryName(callerpath);
 
-            if(location == null)
+            if (location == null)
             {
                 throw new NullReferenceException();
             }
@@ -38,7 +31,7 @@ namespace WebCLI.Tests.Commands.Twitter
             var httpClientFactoryMock = Substitute.For<IHttpClientFactory>();
             httpClientFactoryMock.CreateClient().Returns(fakeHttpClient);
             return httpClientFactoryMock;
-        }   
+        }
 
         protected FakeHttpMessageHandler GetFakeHttpMessageHandler(string response)
         {

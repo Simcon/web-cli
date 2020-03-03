@@ -1,11 +1,11 @@
 ﻿using ApprovalTests;
 using ApprovalTests.Namers;
 using NUnit.Framework;
-using WebCLI.Commands.Twitter.Client;
+using WebCLI.Commands.HackerNews.Client;
 
-namespace WebCLI.Tests.Commands.Twitter
+namespace WebCLI.Tests.Commands.HackerNews
 {
-    public class TwitterParserTests : TwitterTestBase
+    public class HackerNewsParserTests : HackerNewsTestBase
     {
         [Test]
         public void ParseJsonTests([ValueSource("_files")] string file)
@@ -13,7 +13,7 @@ namespace WebCLI.Tests.Commands.Twitter
             var html = ReadFile(file);
             using (ApprovalResults.ForScenario(file))
             {
-                var output = TwitterParser.MapResults(html);
+                var output = HackerNewsParser.MapResults(html);
                 Approvals.Verify(output.Json);
             }
         }
@@ -24,7 +24,7 @@ namespace WebCLI.Tests.Commands.Twitter
             var html = ReadFile(file);
             using (ApprovalResults.ForScenario(file))
             {
-                var output = TwitterParser.MapResults(html);
+                var output = HackerNewsParser.MapResults(html);
                 Approvals.Verify(output.String);
             }
         }
