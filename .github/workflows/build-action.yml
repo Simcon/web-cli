@@ -18,7 +18,3 @@ jobs:
         run: |
           ./test.ps1
         shell: pwsh
-      - name: Publish project
-        run: |
-          ./publish.ps1
-        shell: pwsh
