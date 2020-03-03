@@ -7,4 +7,4 @@ $compress = @{
   CompressionLevel = "Optimal"
   DestinationPath = "release/release.zip"
 }
-Compress-Archive @compress
+Compress-Archive @compress -Force
