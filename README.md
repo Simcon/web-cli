@@ -22,7 +22,7 @@ Twitter, Hacker News.
 
 ## Examples
 
- Show the Presidents recent tweets:
+ Show the U.S. President's recent tweets:
 
     web twitter list -u potus
 
